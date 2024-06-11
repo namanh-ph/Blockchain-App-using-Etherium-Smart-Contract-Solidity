@@ -1,1 +1,1 @@
-# Blockchain Application Using Ethereum Smart Contracts: Simple To-Do List
+# Blockchain Application Using Ethereum Smart Contracts And Solidity: Simple To-Do List
